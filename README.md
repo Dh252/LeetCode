@@ -14,3 +14,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dh252/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dhana_lakshmi_2006?theme=catppuccinMocha&font=Varta)
