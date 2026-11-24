@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Dh252/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Dh252/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dh252/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Dh252/LeetCode/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dh252/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Dh252/LeetCode/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dh252/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dh252/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Dh252/LeetCode/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -126,5 +129,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dh252/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dh252/LeetCode/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dh252/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dh252/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Dh252/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dhana_lakshmi_2006?theme=catppuccinMocha&font=Varta)
