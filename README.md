@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dh252/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Dh252/LeetCode/tree/master/0070-climbing-stairs) |
 | [1447-simplified-fractions](https://github.com/Dh252/LeetCode/tree/master/1447-simplified-fractions) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dh252/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Dh252/LeetCode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -153,5 +155,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Dh252/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dh252/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dhana_lakshmi_2006?theme=catppuccinMocha&font=Varta)
